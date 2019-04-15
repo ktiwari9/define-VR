@@ -1,0 +1,14 @@
+{
+	"n_training_trials" : 15,
+    	"n_testing_trials" : 15,
+	"trial_time" : 120,    
+	
+    	"use_start_blocks_in_training" : true,
+	"use_start_blocks_in_testing" : false,
+	"use_start_icons_in_training" : false,
+	"use_start_icons_in_testing" : false,
+	
+	"start_1" : [-4.5,-4.5,45],
+	"end_1" : [3,-4],
+	"end_2" : [-4, 3]
+}

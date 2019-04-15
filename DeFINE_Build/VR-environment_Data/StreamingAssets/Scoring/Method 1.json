@@ -1,0 +1,12 @@
+{
+	"keyword" : "speed",
+	"score_time" : 10,
+	"speed_coeff" : -2,
+	"acc_coeff" : 6.2,
+	"alpha_t" : -0.05,
+	"alpha_d" : 0.2,
+	"round_score" : true,
+	"scaling_factor" : 300,
+	"fake_scoreboard" : true,
+	"distance_deadzone": 0
+}

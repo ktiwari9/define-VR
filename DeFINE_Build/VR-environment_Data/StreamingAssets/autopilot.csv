@@ -1,0 +1,5 @@
+locomotion,scoring,scenario,environment,sessionNumber
+keyboard,Method 1,scenario1,default,1
+controller,Method 2,scenario2,default,2
+headbob,Method 3,scenario3,default,3
+teleport,Method 1,scenario2,default,4

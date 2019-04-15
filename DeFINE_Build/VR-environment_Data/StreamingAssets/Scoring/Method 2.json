@@ -1,0 +1,12 @@
+{
+	"keyword" : "accuracy",
+	"score_time" : 10,
+	"speed_coeff" : 0.5,
+	"acc_coeff" : 3.4,
+	"alpha_t" : 0.2,
+	"alpha_d" : 1,
+	"round_score" : true,
+	"scaling_factor" : 300,
+	"fake_scoreboard" : true,
+	"distance_deadzone": 0
+}

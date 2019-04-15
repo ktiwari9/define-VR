@@ -1,0 +1,6 @@
+{
+	"locomotion" : "controller",
+	"speed": 3,
+	"use_for_rotation" : false,
+	"rotate_speed" : 85
+}
