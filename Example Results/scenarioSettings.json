@@ -1,0 +1,25 @@
+{
+        "n_practice_trials": 5,
+        "n_main_trials": 5,
+        "trial_time": 120,
+        "distance_deadzone": 0,
+        "time_coeff": 0.01,
+        "distance_coeff": 0.2,
+        "use_start_blocks_in_training": true,
+        "use_start_blocks_in_testing": false,
+        "use_start_icons_in_training": false,
+        "use_start_icons_in_testing": false,
+        "start_1": [
+            -4.5,
+            -4.5,
+            45
+        ],
+        "end_1": [
+            3,
+            -4
+        ],
+        "end_2": [
+            -4,
+            3
+        ]
+    }

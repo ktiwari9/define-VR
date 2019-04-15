@@ -1,0 +1,12 @@
+{
+	"keyword" : "none",
+	"score_time" : 10,
+	"speed_coeff" : 0.01,
+	"acc_coeff" : 0.2,
+	"alpha_t" : 0.2,
+	"alpha_d" : 1,
+	"round_score" : true,
+	"scaling_factor" : 1000,
+	"fake_scoreboard" : true,
+	"distance_deadzone": 0.3f
+}

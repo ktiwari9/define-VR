@@ -1,0 +1,39 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+
+public class ButtonController : MonoBehaviour
+{
+    public Sprite OffSprite;
+    public Sprite OnSprite;
+    public Button but;
+
+    public void ChangeImage()
+    {
+        if (but.image.sprite == OnSprite)
+            but.image.sprite = OffSprite;
+        else
+        {
+            but.image.sprite = OnSprite;
+        }
+    }
+
+
+    public void ActivateButton() {
+
+        but.image.sprite = OnSprite;
+        but.gameObject.SetActive(true);
+
+    }
+
+    public void DeactivateButton() {
+
+        but.image.sprite = OnSprite;
+        but.gameObject.SetActive(false);
+
+    }
+
+   
+
+}

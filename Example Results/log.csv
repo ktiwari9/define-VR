@@ -1,0 +1,15 @@
+timestamp,log_type,message
+0,Warning,VR Inputs not set! Are the VR devices connected?
+0,Log,Loaded: C:\Users\Onur\Desktop\listfolder\participant_list.csv
+1767.109,Log,Updating: C:\Users\Onur\Desktop\listfolder\participant_list.csv
+1767.109,Warning,"Key ""max_forward_speed"" not found in settings file using default value (2) instead."
+1772.689,Log,Ending trial
+1777.058,Log,Ending trial
+1781.604,Log,Ending trial
+1784.692,Log,Ending trial
+1789.057,Log,Ending trial
+1798.377,Log,Ending trial
+1806.047,Log,Ending trial
+1812.614,Log,Ending trial
+1819.136,Log,Ending trial
+1825.129,Log,Ending trial

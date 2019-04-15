@@ -1,0 +1,17 @@
+{
+	"remove_walls_for_test" : true,
+	"use_fog_in_test" : false,
+	"hide_inactive_starts" : true,
+	"one_active_goal_in_test" : true,
+
+	"texture_style" : "custom",
+	
+	"fly_test_radius" : 1.5,
+	"fly_training_radius" : 0.75,
+	"fly_speed" : 1,
+	"fly_offset" : 0.5,
+	"fly_min_height" : 0.75,
+	"fly_max_height" : 1.25,
+	"fly_offset_step_size" : 0.005,
+	"room_size" : [10,4,10]
+}
