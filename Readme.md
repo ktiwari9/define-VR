@@ -73,7 +73,7 @@ If you are using DeFINE for your research or your projects, we would love to kno
 
 ### Developers
 
-* **Kshitij Tiwari**  - [Personal Website](https://sites.google.com/view/kshitijtiwari/home)
+* [**Kshitij Tiwari**](https://sites.google.com/view/kshitijtiwari/home)
 * **Ville Sinkkonen** 
 * **Onur Sari**
 
@@ -81,11 +81,12 @@ If you are using DeFINE for your research or your projects, we would love to kno
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  If you use DeFINE for academic research, please cite as:
+>  Tiwari, K., Kyrki, V., Cheung, A., & Yamamoto, N. (2020). DeFINE: Delayed Feedback based Immersive Navigation Environment for Studying Goal-directed Human Navigation.  arXiv preprint arXiv:2003.03133 (2020). http://arxiv.org/abs/2003.03133
 
 ### Acknowledgments
 
-We would like to thank Prof. Ville Kyrki  from Aalto University, Finland, Dr. Allen Cheung from Queensland Brain Institute, Australia and Prof. Naohide Yamamoto from Queensland University of Technology, Australia for their support for developing this project.
+We would like to thank Prof. Ville Kyrki  from Aalto University, Finland, Dr. Allen Cheung from Queensland Brain Institute, Australia and Dr. Naohide Yamamoto from Queensland University of Technology, Australia for their support for developing this project.
 
 
 
