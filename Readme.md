@@ -3,7 +3,7 @@
 In order to reduce the burden of the behavioral psychologists when it comes to setting up an experiment for analyzing behavior, we developed the Delayed Feedback based Immersive Navigation Environment (DeFINE). DeFINE is based on game engines like Unity3D and hence relies heavily on C# as a programming language. All the low-level implementation is already taken care-of to minimize the workload of the end-users who can simply use the modular components to either modify the existing settings or customize them to their liking. DeFINE aims specifically to provide an easy-to-use, stimulus-response-feedback architecture based experiment environment which can be used
 to study goal-directed spatial navigation behavior in humans.
 
-![practicerun](https://gitlab.com/aalto-qut/environment/uploads/0a264fc80f190aba26fc688383463b17/practicerun.gif)
+![practicerun](https://github.com/ktiwari9/define-VR/blob/development/Example%20Results/practicerun.gif)
 
 
 ## Prerequisites
