@@ -78,7 +78,7 @@ If you are using DeFINE for your research or your projects, we would love to kno
 
 ### Developers
 
-* [**Kshitij Tiwari**](https://sites.google.com/view/kshitijtiwari/home)
+* [**Kshitij Tiwari**](http://ktiwari9.github.io/)
 * **Ville Sinkkonen** 
 * **Onur Sari**
 
