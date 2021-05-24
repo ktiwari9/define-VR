@@ -29,7 +29,7 @@ The **master** branch only includes the build, with the executable file that is 
 
 The **development** branch includes Assets, Project Settings and Packages that are used in Unity. Furthermore, an Example Results folder is included to demonstrate the logged data during a trial. The main folder also includes '.json' files that define bindings for [Vive Controllers](https://www.vive.com/eu/). In case hardware from another brand is used, similar files will be created on the first run. The experiment, environment and scenarios are fully customizable in this branch, with minimal need for coding. 
 
-In the following sections, a brief overview of how to use the repository to run the experiments is presented. For more detailed instructions, please refer to [User Manual](https://gitlab.com/aalto-qut/environment/blob/master/user_manual.pdf).
+In the following sections, a brief overview of how to use the repository to run the experiments is presented. For more detailed instructions, please refer to [User Manual](https://github.com/ktiwari9/define-VR/blob/master/user_manual.pdf).
 
 
 ## Running and customizing the experiments in the master branch
@@ -56,7 +56,7 @@ For more information on running and modifying the experiment on **master** branc
 
 A tracker that automatically logs the movement of the player, together with settings used in each trial and resulting score is included in the repository. After the experiment is run, a results directory will be available, categorized according to locomotion method and scenario selected. These results can be used for further analysis as desired.
 
-An example directory of results of a session performed with "Keyboard" locomotion and "Scenario 1" can be found in the repository [here](https://gitlab.com/aalto-qut/environment/tree/development/Example%20Results). 
+An example directory of results of a session performed with "Keyboard" locomotion and "Scenario 1" can be found in the repository [here](https://github.com/ktiwari9/define-VR/tree/development/Example%20Results). 
 
 ![results](https://gitlab.com/aalto-qut/environment/uploads/4f28b6daa8c434f91d70ab4a5605df37/results1.PNG)
 
