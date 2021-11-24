@@ -87,7 +87,7 @@ If you are using DeFINE for your research or your projects, we would love to kno
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. If you use DeFINE for academic research, please cite as:
->  Tiwari, K., Kyrki, V., Cheung, A., & Yamamoto, N. (2021). DeFINE: Delayed feedback-based immersive navigation environment for studying goal-directed human navigation. Behavior Research Methods, <i>53</i>(6), 2668–2688. https://doi.org/10.3758/s13428-021-01586-6
+>  Tiwari, K., Kyrki, V., Cheung, A., & Yamamoto, N. (2021). DeFINE: Delayed feedback-based immersive navigation environment for studying goal-directed human navigation. *Behavior Research Methods*, *53*(6), 2668–2688. https://doi.org/10.3758/s13428-021-01586-6
 
 ### Acknowledgments
 
